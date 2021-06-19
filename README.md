@@ -20,7 +20,7 @@ A simple image compressor built with [react](https://reactjs.org/) and [browser-
 1. Clone the repository and change directory.
 
 ```
-git clone https://github.com/RaulB-masai/react-image-compressor.git
+git clone https://github.com/MeetMangukiya7/react-image-compressor.git
 cd react-image-compressor
 ```
 
