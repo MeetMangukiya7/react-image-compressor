@@ -1,7 +1,6 @@
-import React from "react";
+import React from "react"
+import ImageCompressor from "./components/ImageCompressor"
 
-import ImageCompressor from "./components/ImageCompressor";
+const App = () => <ImageCompressor />
 
-const App = () => <ImageCompressor />;
-
-export default App;
+export default App
